@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [Add live site URL here](https://mohamedwzs.github.io/Frontend-Mentor-stats-preview-card-component-main/)
 
 ## My process
 - started with designing the mobile and screens below 767px design first as both are the same 
